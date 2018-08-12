@@ -93,6 +93,7 @@ $coins = [
     'gbx'   => ['GoByte', 'https://github.com/gobytecoin/gobyte', 'master'],
     'apr'   => ['APR Coin', 'https://github.com/APRCoin/zenith-repository', 'master'],
     'mlm'   => ['MktCoin', 'https://github.com/Mktcoin-official/Mktcoin', 'master'],
+    'mue'   => ['MonetaryUnit', 'https://github.com/muecoin/MUECore', 'master'],
     'seq'   => ['Sequence', 'https://github.com/duality-solutions/Sequence', 'master'],
     'btcz'  => ['BitcoinZ', 'https://github.com/btcz/bitcoinz', 'master'],
     'zoi'   => ['Zoin', 'https://github.com/zoinofficial/zoin', 'master'],
